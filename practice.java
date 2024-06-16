@@ -5,6 +5,3 @@ public class practice{
         System.out.println("area is:"+area);
     }
 }
-public class practice{
-    
-}
