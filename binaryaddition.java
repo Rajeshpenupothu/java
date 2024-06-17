@@ -1,10 +1,11 @@
-
+//we have to type import java.util.Scanner to run thecode properly 
 import java.util.Scanner;
 
 public class binaryaddition{
     public static void main(String[] args) {
         // Declare variables to store two binary numbers, an index, and a remainder
         // this is binary add file
+        //
         long binary1, binary2;
         int i=0,remainder=0;
         // Create an array to store the sum of binary digits
