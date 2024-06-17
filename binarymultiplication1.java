@@ -4,7 +4,8 @@ import java.util.Scanner;
 public class binarymultiplication1{
     public static void main (String[] args){
         long binary1,binary2,multiply=0;
-        //this is mul code
+        //this is mul code is running
+    
         int digit,factor=1;
         Scanner in =new Scanner(System.in);
         System.out.print("INput of first binary digit:");
