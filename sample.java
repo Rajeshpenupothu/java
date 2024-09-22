@@ -22,7 +22,7 @@ class Cat extends Animal {
 }
 
 // Main class to demonstrate polymorphism
-public class PolymorphismDemo {
+public class sample {
     public static void main(String[] args) {
         // Creating objects of Dog and Cat
         Animal myDog = new Dog();
