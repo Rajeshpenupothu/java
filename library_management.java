@@ -161,7 +161,7 @@ class Library {
 }
 
 // Main class to run the system
-public class library_management {
+public class library_management  {
 
     public static void main(String[] args) {
         Library library = new Library();
