@@ -8,7 +8,7 @@ public class reverse_string{
         String str=sc.nextLine();
         String reverse="";
         for(int i=str.length()-1;i >=0;i--){
-          reverse +=str.charAt(i);
+          reverse +=str.charAt(i);//The charAt() method returns the character at the specified index in a string.
         }
         System.out.println("Rversed string :"+reverse);
     }
