@@ -26,3 +26,4 @@ public class hourGlass {
         }
     }
 
+// Output: 28
